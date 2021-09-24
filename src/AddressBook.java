@@ -26,6 +26,7 @@ public class AddressBook {
         //test text for lab commit
         System.out.println("Address Book");
 
+        //additional changes for branch test
         BuddyInfo buddy = new BuddyInfo("Scott", "Waterloo", "613");
         AddressBook addressBook = new AddressBook();
 
