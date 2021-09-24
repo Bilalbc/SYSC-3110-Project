@@ -23,6 +23,7 @@ public class AddressBook {
     }
 
     public static void main(String[] args) {
+        //test text for lab commit
         System.out.println("Address Book");
 
         BuddyInfo buddy = new BuddyInfo("Scott", "Waterloo", "613");
